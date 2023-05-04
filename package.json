@@ -9,6 +9,7 @@
     "react-scripts": "^5.0.1",
     "whatwg-fetch": "^3.6.2"
   },
+  
   "devDependencies": {
     "@learn-co-curriculum/jest-learn-reporter": "^0.1.0",
     "@testing-library/jest-dom": "^5.11.4",
